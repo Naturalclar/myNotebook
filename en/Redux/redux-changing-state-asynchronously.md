@@ -16,4 +16,5 @@ In order to incorporate state change asynchronously, there will need to be 3 sta
 
   The reducers can toggle an `isFetching` state to turn off the spinner, and display an error message
 
-  Ref: [Async Actions - Redux](http://redux.js.org/docs/advanced/AsyncActions.html)
+## Reference
+- [Async Actions - Redux](http://redux.js.org/docs/advanced/AsyncActions.html)

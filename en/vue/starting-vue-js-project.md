@@ -19,5 +19,4 @@ yarn dev
 
 
 ## Reference
-
-[Vue Doc - Installation](https://vuejs.org/v2/guide/installation.html)
+- [Vue Doc - Installation](https://vuejs.org/v2/guide/installation.html)

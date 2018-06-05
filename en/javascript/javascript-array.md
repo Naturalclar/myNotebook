@@ -18,5 +18,5 @@ Array.from([1,2,3], x => x + x);
 
 ```
 
-
-Ref: [Array.from() - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+## Reference
+- [Array.from() - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)

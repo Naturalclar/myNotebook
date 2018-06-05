@@ -35,7 +35,7 @@ module.exports = {
 module.exports = {
   ...
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.tag$/,
         enforce: 'pre',

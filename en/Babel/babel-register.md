@@ -18,4 +18,5 @@ It makes all subsequent files required by node with extensions `.es6`, `.es`, `.
 
 This way, a node app can be written using Babel syntax.
 
-Ref: [Babel Register - Babel](https://babeljs.io/docs/usage/babel-register/)
+## Reference
+- [Babel Register - Babel](https://babeljs.io/docs/usage/babel-register/)
